@@ -1,6 +1,6 @@
 # Punisher: Zombie Typocalypse
 
-![Gameplay Screenshot](assets/screenshot.png) A fast-paced typing game where you play as the Punisher, mowing down hordes of zombies by correctly typing words. Built with Python and Pygame.
+A fast-paced typing game where you play as the Punisher, mowing down hordes of zombies by correctly typing words. Built with Python and Pygame.
 
 ---
 
